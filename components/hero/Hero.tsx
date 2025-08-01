@@ -104,9 +104,9 @@ export function Hero() {
 
             {/* Video */}
             <div className="mt-6">
-              <div className="rounded-lg overflow-hidden  bg-black aspect-video">
+              <div className="rounded-lg overflow-hidden  bg-black ">
                 <video
-                  src="https://www.w3schools.com/html/mov_bbb.mp4" // Replace with your demo video
+                  src="./demo.mp4" // Replace with your demo video
                   autoPlay
                   loop
                   muted

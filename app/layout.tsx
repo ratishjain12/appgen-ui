@@ -28,7 +28,7 @@ export const metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://appgen.dev"),
+  metadataBase: new URL("https://appgen-ui.vercel.app"), // Updated to your actual URL
   alternates: {
     canonical: "/",
   },
@@ -36,7 +36,7 @@ export const metadata = {
     title: "AppGen - Set up your next app in seconds",
     description:
       "AppGen is the fastest way to bootstrap your next application with modern tools and best practices.",
-    url: "https://appgen.dev",
+    url: "https://appgen-ui.vercel.app", // Updated to your actual URL
     siteName: "AppGen",
     images: [
       {
