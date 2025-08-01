@@ -112,7 +112,6 @@ export function Hero() {
                   muted
                   playsInline
                   className="w-full h-full object-cover"
-                  poster="https://dummyimage.com/1920x1080/222/fff&text=Demo+Video"
                 />
               </div>
             </div>
