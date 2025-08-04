@@ -36,11 +36,11 @@ export const metadata = {
     title: "AppGen - Set up your next app in seconds",
     description:
       "AppGen is the fastest way to bootstrap your next application with modern tools and best practices.",
-    url: "https://appgen-ui.vercel.app", // Updated to your actual URL
+    url: "https://www.appgen-cli.com", // Updated to your actual URL
     siteName: "AppGen",
     images: [
       {
-        url: "https://appgen-ui.vercel.app/og-image.png",
+        url: "https://www.appgen-cli.com/og-image.png",
         width: 1200,
         height: 630,
         alt: "AppGen - Fast app bootstrapping tool",
@@ -54,7 +54,7 @@ export const metadata = {
     title: "AppGen - Set up your next app in seconds",
     description:
       "AppGen is the fastest way to bootstrap your next application with modern tools and best practices.",
-    images: ["https://appgen-ui.vercel.app/og-image.png"],
+    images: ["https://www.appgen-cli.com/og-image.png"],
     creator: "@ratishtwts",
   },
   robots: {
